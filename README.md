@@ -16,7 +16,7 @@ Menu section: Displays food items with images, descriptions, and an "Order Now" 
 
 Contact form: Collects basic user details (Name, Age, Email) and includes a Send button.
 
-🔹 How to view: Link : 
+🔹 How to view: Link :   https://subarenjini.github.io/Menu_Card_Portfolio/
 
 🔹 Purpose/Use Case: "This project is ideal for beginners learning web design and layout using basic front-end technologies."
 
